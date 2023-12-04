@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "uFQSHX/mzdydXJRNXCHqC72mCayf2TdL3RytmUl8rJUCzVip5lAweV9N+dFpSPvS5dG7GgF7IM5L+tbRjv7RwQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Gaspa\\source\\repos\\Servicio API\\Servicio API\\Servicio API.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Gaspa\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\Gaspa\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\Gaspa\\.nuget\\packages\\swashbuckle.aspnetcore\\6.5.0\\swashbuckle.aspnetcore.6.5.0.nupkg.sha512",
+    "C:\\Users\\Gaspa\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.5.0\\swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
+    "C:\\Users\\Gaspa\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.5.0\\swashbuckle.aspnetcore.swaggergen.6.5.0.nupkg.sha512",
+    "C:\\Users\\Gaspa\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.5.0\\swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}

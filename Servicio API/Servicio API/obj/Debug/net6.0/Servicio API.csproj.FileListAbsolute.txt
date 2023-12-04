@@ -1,0 +1,32 @@
+C:\Users\Gaspa\source\repos\Servicio API\Servicio API\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Gaspa\source\repos\Servicio API\Servicio API\bin\Debug\net6.0\appsettings.json
+C:\Users\Gaspa\source\repos\Servicio API\Servicio API\bin\Debug\net6.0\Servicio API.exe
+C:\Users\Gaspa\source\repos\Servicio API\Servicio API\bin\Debug\net6.0\Servicio API.deps.json
+C:\Users\Gaspa\source\repos\Servicio API\Servicio API\bin\Debug\net6.0\Servicio API.runtimeconfig.json
+C:\Users\Gaspa\source\repos\Servicio API\Servicio API\bin\Debug\net6.0\Servicio API.dll
+C:\Users\Gaspa\source\repos\Servicio API\Servicio API\bin\Debug\net6.0\Servicio API.pdb
+C:\Users\Gaspa\source\repos\Servicio API\Servicio API\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Gaspa\source\repos\Servicio API\Servicio API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Gaspa\source\repos\Servicio API\Servicio API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Gaspa\source\repos\Servicio API\Servicio API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Gaspa\source\repos\Servicio API\Servicio API\obj\Debug\net6.0\Servicio API.csproj.AssemblyReference.cache
+C:\Users\Gaspa\source\repos\Servicio API\Servicio API\obj\Debug\net6.0\Servicio API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gaspa\source\repos\Servicio API\Servicio API\obj\Debug\net6.0\Servicio API.AssemblyInfoInputs.cache
+C:\Users\Gaspa\source\repos\Servicio API\Servicio API\obj\Debug\net6.0\Servicio API.AssemblyInfo.cs
+C:\Users\Gaspa\source\repos\Servicio API\Servicio API\obj\Debug\net6.0\Servicio API.csproj.CoreCompileInputs.cache
+C:\Users\Gaspa\source\repos\Servicio API\Servicio API\obj\Debug\net6.0\Servicio API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Gaspa\source\repos\Servicio API\Servicio API\obj\Debug\net6.0\Servicio API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Gaspa\source\repos\Servicio API\Servicio API\obj\Debug\net6.0\staticwebassets\msbuild.Servicio API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Gaspa\source\repos\Servicio API\Servicio API\obj\Debug\net6.0\staticwebassets\msbuild.build.Servicio API.props
+C:\Users\Gaspa\source\repos\Servicio API\Servicio API\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Servicio API.props
+C:\Users\Gaspa\source\repos\Servicio API\Servicio API\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Servicio API.props
+C:\Users\Gaspa\source\repos\Servicio API\Servicio API\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Gaspa\source\repos\Servicio API\Servicio API\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Gaspa\source\repos\Servicio API\Servicio API\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Gaspa\source\repos\Servicio API\Servicio API\obj\Debug\net6.0\scopedcss\bundle\Servicio API.styles.css
+C:\Users\Gaspa\source\repos\Servicio API\Servicio API\obj\Debug\net6.0\Servicio API.csproj.CopyComplete
+C:\Users\Gaspa\source\repos\Servicio API\Servicio API\obj\Debug\net6.0\Servicio API.dll
+C:\Users\Gaspa\source\repos\Servicio API\Servicio API\obj\Debug\net6.0\refint\Servicio API.dll
+C:\Users\Gaspa\source\repos\Servicio API\Servicio API\obj\Debug\net6.0\Servicio API.pdb
+C:\Users\Gaspa\source\repos\Servicio API\Servicio API\obj\Debug\net6.0\Servicio API.genruntimeconfig.cache
+C:\Users\Gaspa\source\repos\Servicio API\Servicio API\obj\Debug\net6.0\ref\Servicio API.dll
